@@ -1,0 +1,17 @@
+kato imame operaciq dup i stek
+
+dup vzima poslednoto chislo i go dublikira i steka stava +1 golqm, mnogo prilicha na unarna, no ne e; tazi ne iztriva poslednoto chislo.
+
+drop hodi i iztriva poslednoto chislo ot steka
+
+swap razmenq poslednite 2 chisla
+
+rot3 rotira 3 chisla - demek hvashta tva deto e navutre i go kachva nagore;
+
+tiq operacii sa polezni kato iskame da definirame makrosi;
+
+trqq da obmislim definiciite na makrosite squared i cube;
+
+naprimer ako iskame da napraim makros deto da povdiga na kvadrat, kogato go prilojim tva neshto kum steka si ako imame primerno squared dup, to purvo shte izvika dup i tn;
+
+sqrt i unarna operaciq, ama trqbva da napravim hypo za nego;
